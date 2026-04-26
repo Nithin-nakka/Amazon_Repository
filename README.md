@@ -1,6 +1,7 @@
-# 🛒 Amazon UI Clone – Live Project
+# 🛒 Amazon UI Clone
 
-A fully responsive Amazon homepage clone built using **HTML5 and CSS3**, now ready for deployment 🚀
+A fully responsive Amazon homepage clone built using **HTML5 and CSS3**.
+This project replicates the look and feel of the Amazon landing page and is deployed online for public access.
 
 ---
 
@@ -9,13 +10,15 @@ A fully responsive Amazon homepage clone built using **HTML5 and CSS3**, now rea
 🔗 **View Project:**
 https://nithin-nakka.github.io/Amazon_Repository/
 
+> ⏳ If the link shows 404, wait a minute after enabling GitHub Pages or recheck settings.
+
 ---
 
 ## 📌 Project Overview
 
-This project is a **frontend clone of the Amazon homepage**, created for learning and practice purposes.
+This is a **frontend UI clone of the Amazon homepage**, created for learning and practice.
 
-It demonstrates:
+It focuses on:
 
 * Layout structuring
 * Responsive design
@@ -25,14 +28,14 @@ It demonstrates:
 
 ## 🚀 Features
 
-✅ Amazon-style Navigation Bar
-✅ Search Bar with Category Dropdown
-✅ Hero Banner Section
-✅ Product Category Cards
-✅ “See more” Links
-✅ Multi-column Footer
-✅ Fully Responsive Layout
-✅ Clean UI Design
+* Amazon-style Navigation Bar
+* Search Bar with Category Dropdown
+* Hero Banner Section
+* Product Category Cards
+* “See more” Links
+* Multi-column Footer
+* Fully Responsive Layout
+* Clean and Modern UI
 
 ---
 
@@ -40,7 +43,7 @@ It demonstrates:
 
 * HTML5
 * CSS3
-* Font Awesome (Icons)
+* Font Awesome
 * Google Fonts
 
 ---
@@ -62,7 +65,7 @@ Amazon_Repository/
 
 ---
 
-## 💻 How to Run Locally
+## 💻 Run Locally
 
 1. Clone the repository:
 
@@ -70,49 +73,64 @@ Amazon_Repository/
 git clone https://github.com/Nithin-nakka/Amazon_Repository.git
 ```
 
-2. Open the folder in VS Code
+2. Open the folder
 
-3. Run using Live Server
-   OR open `index.html` in your browser
+3. Run:
+
+* Open `index.html` in browser
+  OR
+* Use Live Server in VS Code
 
 ---
 
-## 🚀 Deployment
+## 🚀 Deployment (GitHub Pages)
 
-This project is deployed using **GitHub Pages**.
+To deploy:
 
-🔗 Live URL:
+1. Go to repository **Settings**
+2. Open **Pages**
+3. Set:
+
+   * Source → *Deploy from a branch*
+   * Branch → `main`
+   * Folder → `/ (root)`
+4. Save
+
+Your site will be live at:
+
+```
 https://nithin-nakka.github.io/Amazon_Repository/
+```
 
 ---
 
 ## 📸 Preview
 
-(Add your screenshot here after uploading)
+*Add your project screenshot here*
 
 ```
-![Amazon UI Clone Preview](screenshot.png)
+![Preview](screenshot.png)
 ```
 
 ---
 
 ## 🎯 Learning Outcomes
 
-* Strong understanding of **Flexbox & Grid**
+* Learned **Flexbox & CSS Grid**
 * Built a **responsive UI clone**
 * Practiced real-world frontend design
-* Improved structuring and styling skills
+* Improved layout and styling skills
 
 ---
 
 ## ⚠️ Disclaimer
 
-This project is created for **educational purposes only**.
+This project is for **educational purposes only**.
 It is not affiliated with or endorsed by Amazon.
 
 ---
 
-## 👩‍💻 Author
+## 👨‍💻 Author
 
 **Nithin Nakka**
 
@@ -122,4 +140,4 @@ It is not affiliated with or endorsed by Amazon.
 
 ## ⭐ Support
 
-If you like this project, give it a ⭐ on GitHub!
+If you found this useful, consider giving it a ⭐ on GitHub!
