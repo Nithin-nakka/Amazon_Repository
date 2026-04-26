@@ -1,42 +1,53 @@
-🛒 Amazon UI Clone – Amazon_Repository
+# 🛒 Amazon UI Clone – Live Project
 
-A fully responsive Amazon homepage clone built using HTML and CSS.
-This project replicates the UI design of the Amazon landing page including navigation bar, hero section, product categories, and footer.
+A fully responsive Amazon homepage clone built using **HTML5 and CSS3**, now ready for deployment 🚀
 
-📌 Project Overview
+---
 
-This project is a frontend UI clone of the Amazon homepage created for learning and practice purposes.
-It demonstrates layout structuring, CSS styling, grid systems, and responsive design techniques.
+## 🌐 Live Demo
 
-🚀 Features
+🔗 **View Project:**
+https://nithin-nakka.github.io/Amazon_Repository/
+
+---
+
+## 📌 Project Overview
+
+This project is a **frontend clone of the Amazon homepage**, created for learning and practice purposes.
+
+It demonstrates:
+
+* Layout structuring
+* Responsive design
+* Real-world UI replication
+
+---
+
+## 🚀 Features
 
 ✅ Amazon-style Navigation Bar
-
 ✅ Search Bar with Category Dropdown
-
 ✅ Hero Banner Section
-
 ✅ Product Category Cards
-
 ✅ “See more” Links
-
 ✅ Multi-column Footer
-
-✅ Responsive Layout
-
+✅ Fully Responsive Layout
 ✅ Clean UI Design
 
-🛠️ Technologies Used
+---
 
-HTML5
+## 🛠️ Technologies Used
 
-CSS3
+* HTML5
+* CSS3
+* Font Awesome (Icons)
+* Google Fonts
 
-Font Awesome (for icons)
+---
 
-Google Fonts
+## 📂 Project Structure
 
-📂 Project Structure
+```
 Amazon_Repository/
 │
 ├── index.html
@@ -47,42 +58,68 @@ Amazon_Repository/
 │   ├── electronics.jpg
 │   └── ...
 └── README.md
+```
 
-💻 How to Run the Project
+---
 
-Clone the repository:
+## 💻 How to Run Locally
 
-git clone https://github.com/your-username/Amazon_Repository.git
+1. Clone the repository:
 
+```
+git clone https://github.com/Nithin-nakka/Amazon_Repository.git
+```
 
-Open the folder in VS Code.
+2. Open the folder in VS Code
 
-Open index.html using Live Server
-OR double click index.html to open in browser.
+3. Run using Live Server
+   OR open `index.html` in your browser
 
-📸 Preview
+---
+
+## 🚀 Deployment
+
+This project is deployed using **GitHub Pages**.
+
+🔗 Live URL:
+https://nithin-nakka.github.io/Amazon_Repository/
+
+---
+
+## 📸 Preview
 
 (Add your screenshot here after uploading)
 
+```
 ![Amazon UI Clone Preview](screenshot.png)
+```
 
-🎯 Learning Outcomes
+---
 
-Understanding layout design
+## 🎯 Learning Outcomes
 
-Working with Flexbox and Grid
+* Strong understanding of **Flexbox & Grid**
+* Built a **responsive UI clone**
+* Practiced real-world frontend design
+* Improved structuring and styling skills
 
-Building responsive UI
+---
 
-Creating real-world UI clones
+## ⚠️ Disclaimer
 
-⚠️ Disclaimer
-
-This project is created for educational purposes only.
+This project is created for **educational purposes only**.
 It is not affiliated with or endorsed by Amazon.
 
-👩‍💻 Author
+---
 
-Ruchitha Sri
-B.Tech Data Science Student
-Passionate about Web Development & AI Projects
+## 👩‍💻 Author
+
+**Nithin Nakka**
+
+🔗 GitHub: https://github.com/Nithin-nakka
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
